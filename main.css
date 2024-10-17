@@ -4,12 +4,19 @@ body{
 
 h1{
     font: italic;
+    color: lime;
 }
 
 li{
     list-style: square;
+    color: white;
 }
 
 h2{
     font-style: italic;
+    color: lime;
+}
+
+p{
+    color: white;
 }
